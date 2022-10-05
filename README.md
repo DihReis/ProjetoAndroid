@@ -1,2 +1,3 @@
-# siteAndroid
- projeto simples de um site 
+# Site Android
+
+ Projeto de um site de noticias com HTML e CSS
