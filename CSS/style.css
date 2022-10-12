@@ -34,6 +34,11 @@
 
 body {
     background-color: #6bb38f;
+    background-image: url(../images/android2.png), url(../images/android_nougat.png) ;
+    background-repeat: no-repeat, no-repeat;
+    background-position: right bottom, center left;
+   
+    
     
 }
 
