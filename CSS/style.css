@@ -90,15 +90,13 @@ li a {
     text-decoration: none;
     padding: 5px;
     background-image: linear-gradient(to bottom, #227049, #278255, var(--cor2), var(--cor1));
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
-   
 
 }
 
 nav a:hover {
     transition: 0.5s;
     color: black;
+    background-color: #000000;
 
 }
 
